@@ -3,7 +3,7 @@ val activeCampaigns = Seq(
    id = 1,
    country = "NG",
    targeting = Targeting(
-     targetedSiteIds = Seq("09899hjnknbkbkbhvcjbk") 
+     targetedSiteIds = Seq("09899hjnknbkbkbhvcjbk") // collection of chioce  
    ),
    banners = List(
      Banner(
