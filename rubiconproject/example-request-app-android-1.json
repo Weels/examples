@@ -56,7 +56,7 @@ val activeCampaigns = Seq(
      "banner": [
          {
          "id": "1"
-         "height": 320,
+         "height" : 320,
          "width": 410,
          "src":
    "https://business,eskimi.com/wp-content/uploads/2020/06/openGraph.jpeg
